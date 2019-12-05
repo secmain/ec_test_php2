@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+header {
+	height: 200px;
+	background-color: #98fb98; 
+	background-image: url(../image/mise_head2.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}

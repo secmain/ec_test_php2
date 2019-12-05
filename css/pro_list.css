@@ -1,0 +1,25 @@
+.pro-list-form {
+	margin: auto;
+	text-align: center;
+	padding-left: 10%;
+}
+
+
+.product-image {
+	width: 80%;
+	height: 150px;
+	margin: 0 auto;
+}
+
+.product {
+	width: 50%;
+	height: 200px;
+	margin: 15px 0px;
+	float: left;
+}
+
+.products {
+	height: 450px;
+	margin-bottom: 10px;
+	overflow-y: auto;
+}

@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+.bread-zone {
+	height: 30px;
+	background-color: pink;
+}
+
+.nav-container {
+	height: 40px;
+	margin: 0;
+	background-color: #7fffd4;			
+}
+
+.login-info {
+	float: left;
+	height: 100%;
+	line-height: 40px;
+}
+
+.logout {
+	float: right;
+}
+
+.awe-grey {
+	color: #c0c0c0;
+}

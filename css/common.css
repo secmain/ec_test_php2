@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+.main-container {
+	float: left;
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 100px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+.main-title {
+	margin-bottom: 20px;
+}
+
+.a-btn {
+	display: inline-block;
+	border: 0.5px solid silver;
+	border-radius: 10px;
+	text-align: center;
+	line-height: 2.5;
+	width: 70px;
+	height: 40px;
+	background-color: silver;
+	text-decoration: none;
+}
+
+.error {
+	color:red;
+}
+
+.sm-input-box {
+	width: 50px;
+}
+
+.md-input-box {
+	width: 100px;
+}
+
+.lg-input-box {
+	width: 200px;
+}
